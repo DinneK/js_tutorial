@@ -1,0 +1,6 @@
+#!/usr/local/bin/node
+
+console.log("hello, world!");
+let firstName = "Dinne"
+let lastName = 'Kopelevich';
+console.log(firstName, lastName);
